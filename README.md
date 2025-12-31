@@ -1,4 +1,4 @@
-# Store Item Demand Forecasting (MLOps Project)
+# Store Item Demand Forecasting
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Library](https://img.shields.io/badge/Library-CatBoost%20|%20LightGBM%20|%20XGBoost-orange)
@@ -13,7 +13,7 @@ This solution implements a structured **MLOps** workflow, leveraging advanced Ti
 The project follows a standard MLOps/Cookiecutter Data Science directory structure:
 
 ```text
-DEMAND-FORECASTING-MLOPS/
+DEMAND-FORECASTING/
 ├── data/
 │   ├── raw/               # Original datasets (train.csv, test.csv)
 │   └── processed/         # Feature-engineered data (train_fe.csv, test_fe.csv)

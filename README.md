@@ -7,10 +7,8 @@
 ## 📌 Project Overview
 This project aims to predict future sales demand for 50 different items across 10 different stores for a 3-month period. The dataset is sourced from the Kaggle **Store Item Demand Forecasting Challenge**.
 
-This solution implements a structured **MLOps** workflow, leveraging advanced Time Series Feature Engineering (Lags & Rolling Windows) and an **Ensemble Learning** strategy using modern Gradient Boosting Decision Trees (GBDT).
-
 ## 📂 Project Structure
-The project follows a standard MLOps/Cookiecutter Data Science directory structure:
+Directory structure:
 
 ```text
 DEMAND-FORECASTING/
@@ -77,8 +75,8 @@ Visual diagnostic artifacts are saved in the `experiments/` directory:
 
 ### 1. Clone Repository
 ```bash
-git clone [https://github.com/RifqiCah/demand-forecasting-mlops.git](https://github.com/RifqiCah/demand-forecasting-mlops.git)
-cd demand-forecasting-mlops
+git clone [https://github.com/RifqiCah/demand-forecasting.git](https://github.com/RifqiCah/demand-forecasting.git)
+cd demand-forecasting
 
 Author[Rifqi Cahyono - AI/ML Engineer
 
